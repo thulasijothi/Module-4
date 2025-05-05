@@ -36,7 +36,8 @@ for key in sorted(d):
     print((key,d[key]),end=' ')
 
 ## Sample Output
-![image](https://github.com/user-attachments/assets/4c2cc83b-15b8-43ca-8236-c982dfea293a)
+![image](https://github.com/user-attachments/assets/d12a6133-d25e-4d7a-987d-bffde4111975)
+
 
 ## Result
 This program that sorts a dictionary's:
